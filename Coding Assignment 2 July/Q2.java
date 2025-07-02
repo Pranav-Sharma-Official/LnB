@@ -1,3 +1,9 @@
+/* 2. Take User input and decode logic
+● Take 2 integer input from user and print their products(their multiplication)
+● IF product is greater than 500 then return their sum
+● If the product is smaller than 500 then return "Hello LNB code is running
+fine !!" */
+
 import java.util.Scanner;
 
 public class Q2 {
