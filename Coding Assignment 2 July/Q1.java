@@ -15,5 +15,6 @@ public class Q1 {
         }
 
         System.out.println("Sum of numbers >= 9 is: " + sum);
+        scanner.close();
     }
 }
