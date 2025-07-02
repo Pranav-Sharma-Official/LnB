@@ -1,3 +1,8 @@
+/* 1. Take User input and process
+● Take 5 integer input from the user.
+● Remove all numbers less than 9.
+● Calculate the sum of remaining numbers */
+
 import java.util.Scanner;
 
 public class Q1 {
