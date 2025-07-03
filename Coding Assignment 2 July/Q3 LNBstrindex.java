@@ -1,4 +1,4 @@
-/* Take User input in string form and perform operation.
+/* 3. Take User input in string form and perform operation.
 ● Take input from user in string form only and calculate the length of string
 ● IF length is greater than 7 then display only those character which are
 present in even index number
