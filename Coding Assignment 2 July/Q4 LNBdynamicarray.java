@@ -1,4 +1,4 @@
-/* Dynamic array operations and decoding
+/* 4. Dynamic array operations and decoding
 ● Two dynamic arrays are given below L1, L2.
 ● Create a new dynamic array called L3 containing items in below given pattern
 ● From L1 it must take only odd index items
